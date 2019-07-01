@@ -9,7 +9,7 @@ class NewMe:
 
 
 avr_num = NewMe('Valeri')
-print avr_num.name
+print (avr_num.name)
 avr_num.number.append(12)
 avr_num.number.append(55)
-print avr_num.average()
+print(avr_num.average())
