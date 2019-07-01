@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e370411c-de69-4dc9-9aa8-c1cb74c14944" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="e370411c-de69-4dc9-9aa8-c1cb74c14944" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_animal.py" afterDir="false" />
+    </list>
+>>>>>>> a43e014facfa89317e9ed9bf5b3d1550ea9e90af
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
+=======
+      <file pinned="false" current-in-tab="false">
+>>>>>>> a43e014facfa89317e9ed9bf5b3d1550ea9e90af
         <entry file="file://$PROJECT_DIR$/get_your_name.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
@@ -20,6 +32,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+=======
+        <entry file="file://$PROJECT_DIR$/Test_animal.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Animal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+>>>>>>> a43e014facfa89317e9ed9bf5b3d1550ea9e90af
         <entry file="file://$PROJECT_DIR$/my_new_code.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
@@ -269,6 +298,16 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/get_your_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> a43e014facfa89317e9ed9bf5b3d1550ea9e90af
     <entry file="file://$PROJECT_DIR$/Test_animal.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -279,6 +318,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/get_your_name.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -286,5 +326,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> a43e014facfa89317e9ed9bf5b3d1550ea9e90af
   </component>
 </project>
